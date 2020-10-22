@@ -2,7 +2,7 @@
 List button for third party accounts. 
 It's only code that helps me or someone how to construct the best code. Maybe it's not perfect. But for me, it is a good solution for my purpose that easily brings this one to another project.
 
-Give me a "<b>Start<\b>" if you arrge with that.
+Give me a "<b>Start</b>" if you arrge with that.
 
 ### How to use
 
